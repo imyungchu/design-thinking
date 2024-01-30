@@ -4,31 +4,31 @@
 
 # 關於我
 
-嗨 👋，我是江詠筑，未來前端開發者，致力於創建使用者友善的網頁界面。
+嗨 👋，我是江詠筑，跨領域學習的設計思考家，致力於創造使用者友善的產品或專案。
 
-- 🌱 我目前是 [NTHU ISA](https://isa.site.nthu.edu.tw) 研究生，在 [@NLPLab](http://www.nlplab.cc) 學習中
+- 🌱 我目前是 [NTHU ISA](https://isa.site.nthu.edu.tw) 研究生，在 [@NLPLab](http://www.nlplab.cc) 學習自然語言處理、UI / UX 中
 
 - 📄 查看我的經歷：[中文履歷](https://docs.google.com/document/d/1_pO1MJMC2__iarKsbvPb7G_iJeS3CJojkonQelAuQrI/edit?usp=sharing) / [英文履歷](https://docs.google.com/document/d/1sF_a3PMl_xfzvFeefmizUUD6As6yYLmRStVQRnXXhlo/edit?usp=sharing)
 
-- 👨‍💻 一些我的專案可在 [我的 GitHub 頁面](https://github.com/imyungchu?tab=repositories) 上找到
+- 👨‍💻 一些我的專案可在 [我的 GitHub 頁面](https://github.com/imyungchu?tab=repositories) 上找到｀
 
-- 💬 歡迎問我關於 **如何參與跨領域學習、跨領域推甄**
+- 💬 歡迎問我關於 **如何參與跨領域學習、推甄研究所**
 
 - 📫 聯絡方式：**yungchu@gapp.nthu.edu.tw**
 
-- ⚡ 趣聞：**我愛瑜伽 🧘‍♀️**和狗狗
+- ⚡ 趣聞：**我愛瑜伽 🧘‍♀️**和狗狗 🐕
 
 ## 🛠️ 技能
 
 - **前端開發：** HTML, CSS, JavaScript, React, TailwindCSS, [110-2 資料庫管理系統]()
-- **設計與美術：** 國中國小美術班經驗 [TODO] 整理作品集
+- **設計與美術：** 國中國小美術班競賽創作等豐富經驗、
 - **程式語言：** Python, C/C++
 - **程式練習平台：** 我的練習主要在 [Codesignal 個人檔案](https://app.codesignal.com/profile/%E8%A9%A0%E7%AD%91_%E6%B1%9F)，以後預計會漸漸往 [Leetcode 個人檔案](https://leetcode.com/angie20920/) 持續精進程式
-- **自然語言處理：** 研究所所學 實驗室網站[NLPLab](https://www.nlplab.cc/)、112-1 自然語言處理(A+)
+- **自然語言處理：** 研究所所學 實驗室網站 [NLPLab](https://www.nlplab.cc/)、112-1 自然語言處理(A+)
 - **英文能力：** [多益金色證書](https://drive.google.com/file/d/17xH5SxvC6x-Y01f9h9l1pu4RPFZIlpUU/preview)
 - **資料科學：** 111-2 資料探勘(A+)、111-1 應用電腦視覺(A+)、111-1 人工智慧概論(A+)、110-2 數據科學概論(A)、110-2 統計學二(A+)、111-1 機率(A)、110-2 模擬學、110-2 基因演算法
 
-## 💻 實驗室實習經歷 (A year)
+## 💻 實驗室實習經歷
 
 ### 國科會萌芽案計畫前端開發（2023.1 - 2023.8）
 
@@ -36,17 +36,17 @@
 
 #### Three key important concepts to take away from this project
 
-1. Who are your users?
+- Who are your users?
 
-- The user of the Linggle Write product includes high school students, teachers, and anyone who wants to enhance their English writing ability.
+  - The user of the Linggle Write product includes high school students, teachers, and anyone who wants to enhance their English writing ability.
 
-2. What benefit do they get from this project?
+- What benefit do they get from this project?
 
-- The project will help all users or individuals who want to improve their English writing ability.
+  - The project will help all users or individuals who want to improve their English writing ability.
 
-3. What challenges will the app address?
+- What challenges will the app address?
 
-- The effort required for English teachers to correct essays or articles of students is beyond our imagination. We have engaged in interactions, discussions and design improvements based on the opinions of high school English teachers and students.
+  - The effort required for English teachers to correct essays or articles of students is beyond our imagination. We have engaged in interactions, discussions and design improvements based on the opinions of high school English teachers and students.
 
 #### Others
 
