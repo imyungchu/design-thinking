@@ -1,32 +1,29 @@
 ## 文章總覽
 
-精心籌備中，預計分享程式、美術、英文等學習經驗的心路歷程與反思。也期望未來可以撰寫技術文章。
+精心籌備中，預計分享程式、美術、英文等學習經驗的心路歷程與反思。也期望未來可以撰寫網頁相關技術文章。
 
 # 關於我
 
-嗨 👋，我是江詠筑，跨領域學習的設計思考家，致力於創造使用者友善的產品或專案。
+嗨 👋，我是江詠筑，熱愛跨領域學習與設計思考的未來網頁開發工程師，期望能創造使用者友善的藝術品。
 
-- 🌱 我目前是 [NTHU ISA](https://isa.site.nthu.edu.tw) 研究生，在 [@NLPLab](http://www.nlplab.cc) 學習自然語言處理、UI / UX 中
+- 🌱 我目前是 [清華大學資訊應用研究所 (NTHU ISA)](https://isa.site.nthu.edu.tw) 碩一研究生，已經修完畢業學分，正在 [自然語言處理實驗室 @ NLPLab](http://www.nlplab.cc) 學習自然語言處理知識，尤其專研關於詞義消岐(word sense disambiguation)、生成式人工智慧(generative AI)、大型語言模型(Large Language Model)在英文教學工具上的應用。
 
-- 📄 查看我的經歷：[中文履歷](https://docs.google.com/document/d/1_pO1MJMC2__iarKsbvPb7G_iJeS3CJojkonQelAuQrI/edit?usp=sharing) / [英文履歷](https://docs.google.com/document/d/1sF_a3PMl_xfzvFeefmizUUD6As6yYLmRStVQRnXXhlo/edit?usp=sharing)
+- 📄 我的簡介：[中文履歷](https://docs.google.com/document/d/1_pO1MJMC2__iarKsbvPb7G_iJeS3CJojkonQelAuQrI/edit?usp=sharing) / [英文履歷](https://docs.google.com/document/d/1sF_a3PMl_xfzvFeefmizUUD6As6yYLmRStVQRnXXhlo/edit?usp=sharing)。
 
-- 👨‍💻 一些我的專案可在 [我的 GitHub 頁面](https://github.com/imyungchu?tab=repositories) 上找到｀
+- 👨‍💻 我的一些專案可在 [我的 GitHub 頁面](https://github.com/imyungchu?tab=repositories) 上看到。
 
-- 💬 歡迎問我關於 **如何參與跨領域學習、推甄研究所**
+- 💬 歡迎問我關於 **為什麼跨領域學習、推甄研究所**。
 
-- 📫 聯絡方式：**yungchu@gapp.nthu.edu.tw**
-
-- ⚡ 趣聞：**我愛瑜伽 🧘‍♀️**和狗狗 🐕
+- ⚡ 趣聞：**我愛瑜伽 🧘‍♀️**和狗狗 🐕 有經營 youtube, instagram 的興趣，最近喜歡上寫 thread 文章，分享生活反思與有趣的小事情。
 
 ## 🛠️ 技能
 
-- **前端開發：** HTML, CSS, JavaScript, React, TailwindCSS, [110-2 資料庫管理系統]()
-- **設計與美術：** 國中國小美術班競賽創作等豐富經驗、
-- **程式語言：** Python, C/C++
-- **程式練習平台：** 我的練習主要在 [Codesignal 個人檔案](https://app.codesignal.com/profile/%E8%A9%A0%E7%AD%91_%E6%B1%9F)，以後預計會漸漸往 [Leetcode 個人檔案](https://leetcode.com/angie20920/) 持續精進程式
-- **自然語言處理：** 研究所所學 實驗室網站 [NLPLab](https://www.nlplab.cc/)、112-1 自然語言處理(A+)
-- **英文能力：** [多益金色證書](https://drive.google.com/file/d/17xH5SxvC6x-Y01f9h9l1pu4RPFZIlpUU/preview)
-- **資料科學：** 111-2 資料探勘(A+)、111-1 應用電腦視覺(A+)、111-1 人工智慧概論(A+)、110-2 數據科學概論(A)、110-2 統計學二(A+)、111-1 機率(A)、110-2 模擬學、110-2 基因演算法
+- **前端開發：** HTML, CSS, JavaScript, React, TailwindCSS, [資料庫管理系統課程](https://github.com/imyungchu/Database-Taiwan-High-Speed-Rail-Project-), 參與開發[實驗室產品頁面](https://home.linggle.com)
+- **設計與美術：** 國中國小美術班多次比賽獲獎、[工程圖學課程](https://github.com/imyungchu/Engineering-Graphics)
+- **程式語言：** Python, C/C++；我的練習主要在 [Codesignal 個人檔案](https://app.codesignal.com/profile/%E8%A9%A0%E7%AD%91_%E6%B1%9F)，以後預計會漸漸往 [Leetcode 個人檔案](https://leetcode.com/angie20920/) 持續精進程式。
+- **自然語言處理：** 研究所所學 實驗室網站 [NLPLab](https://www.nlplab.cc/)、自然語言處理(A+)
+- **英文能力：** [多益金色證書](https://drive.google.com/file/d/17xH5SxvC6x-Y01f9h9l1pu4RPFZIlpUU/preview) 能用外文與人交朋友、學習多堂英文授課課程與撰寫專業文章或上台發表課堂報告。
+- **資料科學：** 資料探勘(A+)、應用電腦視覺(A+)、[人工智慧概論(A+)](https://github.com/imyungchu/Artificial-Intelligence-Course-and-Project)、[數據科學概論(A)](https://github.com/imyungchu/Data-Science-homework-and-project)、統計學二(A+)、機率(A)、模擬學、[基因演算法](https://github.com/imyungchu/Genetic-Algorithm-and-Applications-in-Management-Science)
 
 ## 💻 實驗室實習經歷
 
@@ -34,28 +31,28 @@
 
 ### 實驗室專案管理（2023.7 - 2023.12）
 
-#### Three key important concepts to take away from this project
+#### Three key important concepts to take away from this project 回顧專案重點
 
-- Who are your users?
+- Who are our users?
 
-  - The user of the Linggle Write product includes high school students, teachers, and anyone who wants to enhance their English writing ability.
+  The user of the Linggle Write product includes high school students, teachers, and anyone who wants to enhance their English writing ability.
 
 - What benefit do they get from this project?
 
-  - The project will help all users or individuals who want to improve their English writing ability.
+  The project will help all users or individuals who want to improve their English writing ability.
 
 - What challenges will the app address?
 
-  - The effort required for English teachers to correct essays or articles of students is beyond our imagination. We have engaged in interactions, discussions and design improvements based on the opinions of high school English teachers and students.
+  The effort required for English teachers to correct essays or articles of students is beyond our imagination. We have engaged in interactions, discussions and design improvements based on the opinions of high school English teachers and students.
 
-#### Others
+#### Others thoughts
 
 - 用 React 和 TailwindCSS 參與學習開發文法改錯工具前端
-- 負責專案管理(Github Project, Scrum, Notion) 和介面設計(Figma)
+- 負責專案管理(Github Project, Scrum, Notion) 和介面設計(Figma)構思與繪製
 
   ### 國科會萌芽案計畫簡介
 
-  在參與國科會萌芽案計畫的期間，我參與了張俊盛教授帶領的國立清華大學自然語言實驗室「英文高效寫作工具」Linggle Write 的前端開發與專案管理，這是一個很優秀的團隊，讓我在程式設計開發、專案管理經驗上都體驗到很實際的經驗和成長。
+  在參與國科會萌芽案計畫的期間，我參與了張俊盛教授帶領的國立清華大學自然語言實驗室「英文高效寫作工具」Linggle Write 的前端開發與專案管理，讓我在程式設計開發、專案管理經驗上都體驗到很實際的經驗和成長。
 
   ### 前端開發技能
 
@@ -86,12 +83,15 @@
 - **第三名 2023 中技社 AI 創意競賽**
   - [影片連結](https://drive.google.com/file/d/1r71VcEtNgzNo8diUW2FwY8dGnONjAVhm/view?usp=drive_link)
   - [海報連結](https://drive.google.com/file/d/1X4JReUfHC9BH6DHqGYwu-_YfoxJOITVn/view?usp=sharing)
+  - Takeaway: 我學會了設計網頁樣式，使用 Streamlit 模板快速開發英文寫作工具，並與同學合作製作了一個有關 Double space 格式的英文寫作平台。我擔任了團隊隊長，在 2023 中技社 AI 創意競賽中，我們的作品獲得第三名。在比賽中，我參與了作品設計、專案管理、教學助教程式實作、影片錄製、計畫書和成果文件的撰寫，以及海報的製作。
 - **佳作 2022 全國工業工程大學生專題競賽 大數據分析與資訊系統組**
   - [論文全文](https://drive.google.com/file/d/1edGAIWy3XEC6kk66AQwiJQwly1DUlrq9/view?usp=sharing)
   - [程式連結](https://github.com/imyungchu/Sharing-bicycle-DL-GA)
-  - [影片連結]()
+  - [影片連結](https://www.youtube.com/watch?v=NEtkb0T8vGE)
+  - Takeaway: 學習整合需求預測、再配送路徑規劃、python 進階應用，例如利用 Keras 撰寫 LSTM, GRU 並且利用數學建模、基因演算法最佳化再配送路徑規劃，最後成果顯示透過需求預測可以降低 36% 的再配送過程碳排放污染。
 - **佳作 2022 國立陽明交通大學第二屆聯合國永續發展目標 SDGs 論文海報競賽**
   - [海報連結](https://drive.google.com/file/d/1RqxI3m86yXWR4mn-CH-KQQQEgrGPjDtB/view?usp=sharing)
+  - Takeaway: 學習到怎麼將論文、數據、實驗結果整理濃縮成一個重點海報，並透過現場與路過的教授、有興趣的學者交流，進而提升自己的能力。
 
 ## ☎️ 聯絡方式
 
